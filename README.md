@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reza-alaedini
 - 👀 I’m interested in Computer, Web Development
-- 🌱 I’m currently learning some Front Topics
+- 🌱 I’m currently learning some Front - End Topics
 - 📫 How to reach me : Linkedin : Reza Alaedini
 - 🌍 And My Website : http://reza-alaedini.gigfa.com/
 
