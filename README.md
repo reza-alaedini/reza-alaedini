@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **reza.alaedini.ra@gmail.com**
 
-- 📄 My Resume [http://reza-alaedini.ir/documents/Reza-Alaedini-CV.pdf](http://reza-alaedini.ir/documents/Reza-Alaedini-CV.pdf)
+- 📄 [My Resume](http://reza-alaedini.ir/documents/Reza-Alaedini-CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
