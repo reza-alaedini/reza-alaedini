@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Reza Alaedini</h1>
 <h3 align="center">Enthusiastic junior Front-End developer!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reza-alaedini&label=Profile%20views&color=0e75b6&style=flat" alt="reza-alaedini" /> </p>
+
 - 🎓 I’m currently study at **Shamsipour university**
 
 - 🌱 I’m currently learning **Next JS & Redux**
