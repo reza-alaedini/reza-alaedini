@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝I'm looking for Obtain **Front-end developer job!**
 
-- 👨‍💻 All of my projects are available at [reza-alaedini.ir](reza-alaedini.ir)
+- 👨‍💻 All of my projects are available at [reza-alaedini.ir](http://reza-alaedini.ir)
 
 - 💬 Ask me about **js, react, next**
 
